@@ -1,4 +1,1 @@
-Kod ten jest symulatorem systemu rezerwacji biletów do kina. Pozwala użytkownikowi na wybór różnych opcji,
-takich jak wyświetlenie dostępnych miejsc, rezerwacja biletu, wyświetlenie statystyk dotyczących
-sprzedanych biletów oraz całkowitych dochodów, a także wyjście z programu. użytkownik może zobaczyć układ miejsc w kinie, 
-dokonać rezerwacji biletu, sprawdzić statystyki sprzedaży oraz zakończyć program.
+This code is a cinema ticket booking system simulator. It allows users to choose various options such as displaying available seats, booking tickets, viewing statistics on ticket sales and total revenue, as well as exiting the program. Users can see the seating layout in the cinema, make a ticket reservation, check sales statistics, and terminate the program.
